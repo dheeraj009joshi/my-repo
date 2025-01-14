@@ -1,7 +1,7 @@
 # Simple To-Do List CLI
 import sys
 
-tasks = ['Complete GitHub project', 'Write Python script', 'Fix bug in code', 'Task 50: Complete GitHub project', 'Task 49: Write Python script', 'Task 48: Task 50: Complete GitHub project', 'Task 47: Task 48: Task 50: Complete GitHub project', 'Task 46: Write Python script', 'Task 45: Task 48: Task 50: Complete GitHub project']
+tasks = ['Complete GitHub project', 'Write Python script', 'Fix bug in code', 'Task 50: Complete GitHub project', 'Task 49: Write Python script', 'Task 48: Task 50: Complete GitHub project', 'Task 47: Task 48: Task 50: Complete GitHub project', 'Task 46: Write Python script', 'Task 45: Task 48: Task 50: Complete GitHub project', 'Task 44: Fix bug in code']
 
 def show_tasks():
     print("\nYour To-Do List:")
